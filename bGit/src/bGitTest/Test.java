@@ -11,6 +11,8 @@ public class Test {
 		
 		System.out.println("aaaaaaaaaaaaa");
 		System.out.println("zzzzzzzzzzzzzzzzzzzzz"); 
+		
+		System.out.println("나는 이수한");
 
 	}
 
