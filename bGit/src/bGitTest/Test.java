@@ -6,6 +6,9 @@ public class Test {
 		System.out.println("¾È³ç?");
 		System.out.println("¾È³ç?³­ Á¶¿ø");
 		System.out.println("yyyyyyyyyyyyyyy");
+
+		System.out.println("xxxxxxxxxxxxxxxxxx");
+
 	}
 
 }
